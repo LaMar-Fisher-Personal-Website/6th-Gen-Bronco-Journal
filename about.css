@@ -27,7 +27,7 @@ nav {
 img {
     padding: 20px;
     border-radius: 90px;
-    margin-inline: 800px;
+    margin-inline: 900px;
 
 }
 
@@ -53,5 +53,11 @@ p {
     color: rgba(237, 255, 196, 0.959);
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
-
 }
+
+.image-class {
+    width: 24.5%; 
+    height:auto
+    
+}    
+
